@@ -13,9 +13,9 @@ A beautiful, responsive web application that displays inspirational quotes with 
 
 ## 🎥 Live Demo
 
-🔗 **[View Live Demo](https://yourusername.github.io/quote-gen)**
+🔗 **[View Live Demo](https://sohampawgi15.github.io/quote-gen/)**
 
-*Replace `yourusername` with your actual GitHub username after deployment*
+*Live demo available on GitHub Pages*
 
 ## 📱 Screenshots
 
@@ -37,7 +37,7 @@ A beautiful, responsive web application that displays inspirational quotes with 
 ### Option 2: Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/quote-gen.git
+git clone https://github.com/SohamPawgi15/quote-gen.git
 
 # Navigate to project directory
 cd quote-gen
@@ -102,7 +102,7 @@ Modify the fade transition timing in the CSS:
 2. Go to repository Settings > Pages
 3. Select "Deploy from a branch"
 4. Choose "main" branch and "/ (root)" folder
-5. Your site will be available at `https://yourusername.github.io/quote-gen`
+5. Your site will be available at `https://sohampawgi15.github.io/quote-gen`
 
 ### Other Hosting Options
 - **Netlify**: Drag and drop the project folder
@@ -135,9 +135,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+**Soham Pawgi**
+- GitHub: [@SohamPawgi15](https://github.com/SohamPawgi15)
 
 ## 🙏 Acknowledgments
 
@@ -149,12 +148,12 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Support
 
 If you encounter any issues or have suggestions:
-- 🐛 [Report a Bug](https://github.com/yourusername/quote-gen/issues)
-- 💡 [Request a Feature](https://github.com/yourusername/quote-gen/issues)
-- 📧 Email: your.email@example.com
+- 🐛 [Report a Bug](https://github.com/SohamPawgi15/quote-gen/issues)
+- 💡 [Request a Feature](https://github.com/SohamPawgi15/quote-gen/issues)
+- 📧 Email: sohampawgi15@example.com
 
 ---
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
-*Made with ❤️ by [Your Name]*
+*Made with ❤️ by [Soham Pawgi]*
